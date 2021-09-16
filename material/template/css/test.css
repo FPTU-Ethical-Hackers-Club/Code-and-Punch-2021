@@ -1,0 +1,26 @@
+h1.test{
+	padding-left: 100px;
+	color: #7562FF;
+}
+div.basics{
+	background-color: gray;
+}
+div.table{
+	background-color: red;
+}
+div.list{
+	background-color: blue;
+	color: yellow;
+}
+div.col-sm-3{
+	background-color: red;
+}
+div.list:hover{
+	background-color: cyan;
+}
+.right{
+	float: right;
+}
+.logo{
+	width: 32px;
+}
