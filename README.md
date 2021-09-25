@@ -1,6 +1,6 @@
 # Front-end Web
 
-week1, Fall 2021, 16/09/2021
+week 1, Fall 2021, 16/09/2021
 
 ## Learning Material
 
